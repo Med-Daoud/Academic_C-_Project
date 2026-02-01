@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1745970416 source:c:\users\sonde\desktop\projet c++\mecanique\main.cpp
+	<iostream>
+	"Personne.h"
+	"voiture.h"
+	"garage.h"
+	"mecanicien.h"
+	<string>
+
+1741716513 source:c:\users\sonde\desktop\projet c++\mecanique\src\date.cpp
+	"Date.h"
+
+1741716737 c:\users\sonde\desktop\projet c++\mecanique\include\date.h
+	<iostream>
+
+1745283270 source:c:\users\sonde\desktop\projet c++\mecanique\src\automobile.cpp
+	"automobile.h"
+	"reparation.h"
+
+1745274811 c:\users\sonde\desktop\projet c++\mecanique\include\automobile.h
+	<iostream>
+	<string>
+	"reparation.h"
+	<vector>
+
+1745278217 source:c:\users\sonde\desktop\projet c++\mecanique\src\camion.cpp
+	"camion.h"
+
+1745274727 c:\users\sonde\desktop\projet c++\mecanique\include\camion.h
+	"automobile.h"
+
+1745278913 source:c:\users\sonde\desktop\projet c++\mecanique\src\moto.cpp
+	"moto.h"
+
+1745278913 c:\users\sonde\desktop\projet c++\mecanique\include\moto.h
+	"automobile.h"
+
+1745283229 source:c:\users\sonde\desktop\projet c++\mecanique\src\voiture.cpp
+	<iostream>
+	<string>
+	"voiture.h"
+	"personne.h"
+
+1745278913 c:\users\sonde\desktop\projet c++\mecanique\include\voiture.h
+	"automobile.h"
+	<iostream>
+	<string>
+	<vector>
+	"personne.h"
+	"client.h"
+
+1745274825 source:c:\users\sonde\desktop\projet c++\mecanique\src\voiture_electrique.cpp
+	"voiture_electrique.h"
+
+1745277747 c:\users\sonde\desktop\projet c++\mecanique\include\voiture_electrique.h
+	"voiture.h"
+
+1745274833 source:c:\users\sonde\desktop\projet c++\mecanique\src\voiture_essence.cpp
+
+1744204732 c:\users\sonde\desktop\projet c++\mecanique\include\voiture_essence.h
+	"voiture.h"
+
+1746005477 source:c:\users\sonde\desktop\projet c++\mecanique\src\client.cpp
+	"Personne.h"
+	"Client.h"
+	<iostream>
+
+1745440802 c:\users\sonde\desktop\projet c++\mecanique\include\personne.h
+	<iostream>
+	<string>
+	<vector>
+	"Date.h"
+	"automobile.h"
+	<iostream>
+
+1746005460 c:\users\sonde\desktop\projet c++\mecanique\include\client.h
+	<iostream>
+	<string>
+	<vector>
+	"Date.h"
+	"Facture.h"
+	"automobile.h"
+	"Personne.h"
+
+1744123564 c:\users\sonde\desktop\projet c++\mecanique\include\facture.h
+	<iostream>
+
+1745402233 source:c:\users\sonde\desktop\projet c++\mecanique\src\garage.cpp
+	<iostream>
+	"garage.h"
+	<vector>
+	"client.h"
+	"camion.h"
+	"mecanicien.h"
+
+1744222344 c:\users\sonde\desktop\projet c++\mecanique\include\garage.h
+	<iostream>
+	<string>
+	<vector>
+	"automobile.h"
+	<fstream>
+	"voiture.h"
+	"moto.h"
+	"camion.h"
+	"personne.h"
+
+1745402131 c:\users\sonde\desktop\projet c++\mecanique\include\mecanicien.h
+	<iostream>
+	<string>
+	"personne.h"
+
+1745402131 source:c:\users\sonde\desktop\projet c++\mecanique\src\mecanicien.cpp
+
+1745402131 source:c:\users\sonde\desktop\projet c++\mecanique\src\clientmecanicien.cpp
+
+1745401392 c:\users\sonde\desktop\projet c++\mecanique\include\clientmecanicien.h
+	"Client.h"
+	"mecanicien.h"
+
+1745442011 source:c:\users\sonde\desktop\projet c++\mecanique\src\facture.cpp
+	"Facture.h"
+	<iostream>
+	"Facture.h"
+
+1745444131 source:c:\users\sonde\desktop\projet c++\mecanique\src\personne.cpp
+	<cctype>
+	"personne.h"
+	<iostream>
+	"automobile.h"
+	"Personne.h"
+	"Date.h"
+	<string>
+	"voiture.h"
+	"moto.h"
+	"camion.h"
+
+1745274841 source:c:\users\sonde\desktop\projet c++\mecanique\src\voiture_hybride.cpp
+
+1744204766 c:\users\sonde\desktop\projet c++\mecanique\include\voiture_hybride.h
+	"voiture.h"
+	"voiture_electrique.h"
+	"voiture_essence.h"
+
+1744193132 c:\users\sonde\desktop\projet c++\mecanique\include\reparation.h
+	<iostream>
+	<string>
+	<vector>
+
+1744192999 source:c:\users\sonde\desktop\projet c++\mecanique\src\reparation.cpp
+	"reparation.h"
+
